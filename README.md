@@ -1,5 +1,3 @@
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jason%20Choi%20🚀&fontSize=45&fontAlignY=35&desc=Senior%20Full-Stack%20Developer%20|%20MERN%20%7C%20Python%20%7C%20Cloud%20%26%20AI&descAlignY=55)
-
 # 👋 Hi, I'm Jason Choi
 
 ## 🚀 Built apps for millions at Google and Meta — now bringing FAANG-level expertise to your project.
@@ -66,24 +64,3 @@ Every project I design aligns with business goals, ensuring technology drives me
 
 If you need a **proven Senior Full-Stack Developer** who can **architect, build, and scale** with confidence —  
 👉 **Invite me to your project or message me to get started today.**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonChoi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonChoi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
-
-</div>
-
----
-
-<details>
-<summary>🔍 SEO Keywords (for Upwork / discoverability)</summary>
-
-Senior Full-Stack Developer, MERN Developer, React Developer, Next.js Developer, Node.js Developer, Express.js, TypeScript, Python Developer, FastAPI, Django, Flask, REST API, GraphQL, WebSockets, Microservices, Event-Driven, PostgreSQL, MongoDB, Redis, AWS Developer, Lambda, API Gateway, ECS, EKS, CloudFront, S3, RDS, Cognito, SQS, SNS, Step Functions, CloudWatch, GCP Developer, Cloud Run, GKE, Cloud Functions, Pub/Sub, Firestore, BigQuery, DevOps, Docker, Kubernetes, Terraform, Helm, CI/CD, GitHub Actions, GitLab CI, Argo CD, AI Full-Stack, LLM, RAG, Vector Database, Pinecone, Weaviate, FAISS, Milvus, Vertex AI, SageMaker, Hugging Face, OpenAI, Google Gemini, LangChain, LlamaIndex, OAuth2, JWT, SSO, RBAC, OWASP, Unit Testing, Integration Testing, E2E Testing, Playwright, Cypress, Sentry, Datadog, Prometheus, Grafana, Stripe, Twilio, Firebase, Auth0, Clerk, PWA, SSR, SSG, Monorepo, Turborepo.
-</details>
-
-![Footer Banner](https://capsule-render.v)
