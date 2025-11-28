@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jason Choi
 
-## 🚀 Built apps for millions at Google and Meta — now bringing FAANG-level expertise to your project.
+## 🚀 𝗕𝘂𝗶𝗹𝗱 𝗮𝗽𝗽𝘀 𝗳𝗼𝗿 𝗺𝗶𝗹𝗹𝗶𝗼𝗻𝘀 𝘄𝗶𝘁𝗵 𝗲𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲 𝗳𝗿𝗼𝗺 𝗚𝗼𝗼𝗴𝗹𝗲- 𝗮𝗻𝗱 𝗠𝗲𝘁𝗮-𝘀𝗽𝗼𝗻𝘀𝗼𝗿𝗲𝗱 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀.
 
 I’m a **Senior Full-Stack Developer** with **10+ years of professional experience**, including **2 years at Google** and **3 years at Meta**.  
 I’ve designed, built, and scaled applications that serve millions of users worldwide. My focus is always on creating **reliable, scalable, and secure** solutions that turn business goals into real-world impact.
