@@ -7,15 +7,6 @@ I’ve designed, built, and scaled applications that serve millions of users wor
 
 ---
 
-## 💼 My Experience
-
-- **10+ years** in full-stack development delivering enterprise-grade and startup MVP solutions  
-- **2 years at Google**, contributing to distributed systems, large-scale APIs, and cloud infrastructure  
-- **3 years at Meta**, building high-performance apps supporting millions of daily users  
-- Deep expertise in **MERN, Python, AWS, GCP**, and **AI full-stack systems** for next-gen applications  
-
----
-
 ## 🧠 What I Deliver
 
 - **End-to-End Development:** From concept to launch using MERN and Python with modular, maintainable code  
